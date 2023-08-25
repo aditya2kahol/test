@@ -1,2 +1,5 @@
+# .py.swp files
 .hungry.py.swp
+
+# Applications (.exe files)
 *.exe
